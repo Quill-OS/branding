@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="137"
+   height="59.722225"
+   version="1.1"
+   viewBox="0 0 137 59.722225"
+   id="svg9"
+   sodipodi:docname="quillos-banner.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.1439715"
+     inkscape:cx="117.20844"
+     inkscape:cy="38.327319"
+     inkscape:window-width="1920"
+     inkscape:window-height="956"
+     inkscape:window-x="1800"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9" />
+  <path
+     d="m 28,3.7218 a 28,28 0 0 0 -28,28 28,28 0 0 0 28,28 28,28 0 0 0 28,-28 28,28 0 0 0 -28,-28 z m 0,2 a 21,26 0 0 1 21,26 21,26 0 0 1 -21,26 21,26 0 0 1 -21,-26 21,26 0 0 1 21,-26 z"
+     id="path1"
+     style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 28.704,44.9858 c 4.5966,3.6972 8.7759,5.5438 11.068,4.1982 C 41.9895,47.882 39.61675,40.4541 37.7709,34.975 35.9759,29.6463 32.9812,24.481 29.0038,19.07 23.8644,12.0775 18.5348,6.357 11.2568,0 c -0.22374,5.6706 2.0344,18.512 5.1373,26.954 3.5017,9.5269 7.8393,14.436 12.311,18.033 z"
+     fill="#000000"
+     id="path3"
+     style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 16.406,19.8088 c 1.8228,6.8081 4.431,11.846 7.8394,17.137 2.9409,4.3999 7.0123,7.5725 11.787,10.128 0.93674,0.27393 1.6462,1.0786 2.6242,0.26043 0.85115,-0.71208 -0.6207,-5.1421 -1.3108,-7.6891 -1.2608,-4.496 -2.6647,-8.0806 -5.4239,-12.868 -4.872,-8.1151 -10.787,-15.132 -17.948,-21.457 0.26155,2.5164 0.93257,8.8427 2.4311,14.489 z"
+     fill="#999999"
+     id="path4"
+     style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+  <g
+     fill="#000000"
+     id="g8"
+     transform="translate(-4,-0.2782)">
+    <g
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="g7">
+      <path
+         d="m 49.069,59.97 4.9314,0.03043 c -4.6167,-3.334 -7.0598,-6.7154 -8.7665,-9.4021 -5.9357,-9.3439 -13.54,-21.828 -22.868,-36.114 6.6549,15.171 13.581,25.475 20.858,37.416 1.8071,2.9652 3.4475,5.3529 5.8447,8.0702 z"
+         id="path5" />
+      <path
+         d="m 68,23 v 27 c 0,3 2,10 13,10 2.9194,0 5.4881,-1.7408 7.4941,-3.9863 C 89.26335,58.2732 90.882,60 93,60 h 4 c -2,-1.2371 -3,-2.9993 -3,-7.6484 v -22.352 c 0,-3.5017 -4.3235,-6.0113 -6,-7 v 24 c 0,6 -3,11 -7,11 -4,0 -7,-2 -7,-8 v -20 c 0,-3.5017 -4.3235,-6.0113 -6,-7 z"
+         id="path6" />
+      <path
+         d="m 103,23 v 30 c 0,3.5361 2,7 5,7 h 4 c -2,-1.2371 -3,-2.9993 -3,-7.6484 v -22.352 c 0,-3.5017 -4.3235,-6.0113 -6,-7 z"
+         id="path7" />
+      <circle
+         cx="106"
+         cy="15"
+         r="4"
+         id="circle7" />
+    </g>
+    <path
+       d="m 118,4 v 49 c 0,3.5361 2,7 5,7 h 4 c -2,-1.2371 -3,-2.9993 -3,-7.6484 v -41.352 c 0,-3.5017 -4.3235,-6.0113 -6,-7 z m 14,0 v 49 c 0,3.5361 2,7 5,7 h 4 c -2,-1.2371 -3,-2.9993 -3,-7.6484 v -41.352 c 0,-3.5017 -4.3235,-6.0113 -6,-7 z"
+       id="path8" />
+  </g>
+</svg>
